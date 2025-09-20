@@ -3,7 +3,7 @@
 ## Development Setup
 
 ### Prerequisites
-- Python 3.11 or higher
+- Python 3.13 or higher
 - Git
 - on Windows:
    - Microsoft Visual C++ 14.0 or greater # Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
